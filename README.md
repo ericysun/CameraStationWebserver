@@ -4,3 +4,5 @@
 Webserver Developer Interface:
 - web-platform-jjqeag
 - [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-jjqeag)
+#### Preview of Webserver View:
+<img width="416" alt="Screenshot 2025-05-01 at 12 11 04 AM" src="https://github.com/user-attachments/assets/be5f04a5-86be-47cf-83c8-2d52c5ea0efb" />
